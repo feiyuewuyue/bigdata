@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="account_check"
+  id="myeclipse.1413252399605"
+  context-root="/account_check"
+  j2ee-spec="5.0"
+  archive="account_check.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
